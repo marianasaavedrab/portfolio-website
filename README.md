@@ -12,8 +12,8 @@ This portfolio showcases my technical projects in:
 
 ---
 
-## 🚀 Live Demo
-👉 [Portfolio Link](https://mariana-portfolio.onrender.com)
+## Live Demo
+[Portfolio Link](https://mariana-portfolio.onrender.com)
 
 ---
 
